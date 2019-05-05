@@ -11,7 +11,7 @@ Tensorflow FULL Implementation of Yoon Kim's Text CNN Paper
 3. tensorflow
 4. tensorboard
 
-## Repeat of Experiment
+## Repeat of Experiment (Google Colab)
 1. Specify Location of data files
 ```
 to_trainer = TOTrainParameter(
